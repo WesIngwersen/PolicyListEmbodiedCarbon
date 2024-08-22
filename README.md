@@ -1,5 +1,11 @@
-# Listing of Policies Implying Embodied Carbon or other Embodied environmental impact Measurement
+# Listing of Policies and Coordinated Standardization Efforts Around Embodied Carbon and Decarbonization
 
+
+# Standards
+ASTM E60 committee on sustainability. Hosting Aug 1-2 2023 workshop
+Decarbonization: A Gap Analysis of LCA Standards for Industry
+
+# Policies
 
 # Federal
 
@@ -22,7 +28,6 @@
 
 
 
-
 # International
 
 ## Trade Agreements/Arrangements
@@ -35,3 +40,5 @@
 # Related Policies
 
 ## National Environmental-Economics Accounts
+
+
